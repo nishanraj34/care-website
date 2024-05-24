@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#blur-image {
+  width: 1119px;
+  height: 850px;
+  /* background: #082a4a; */
+}
+#blur-image img {
+  height: auto;
+  width: 1519px;
+}
